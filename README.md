@@ -11,11 +11,11 @@ Developed an end-to-end sales analytics dashboard to gain insights into pizza st
 
 #### Conclusion & Learnings
 ##### This project not only strengthened my technical skills in SQL, Power BI, Power Query, and DAX, but also gave me hands-on experience in building a complete analytics solution from scratch. Here are the key takeaways:
-    •	Learned how to connect and integrate Microsoft SQL Server with Power BI for seamless data flow.
-    •	Understood the practical application of Power Query for cleaning and shaping real-world data.
-    •	Mastered the use of DAX to create dynamic measures and calculations that drive insight.
-    •	Gained experience in designing dashboards with user-friendly interfaces, enabling decision-makers to interact with data intuitively.
-    •	Developed the ability to extract business insights from raw data and communicate them visually.
-Overall, this project improved my data storytelling, visualization, and end-to-end BI development skills—preparing me to contribute meaningfully to real-world data-driven decision environments.
+  •	Learned how to connect and integrate Microsoft SQL Server with Power BI for seamless data flow.
+  •	Understood the practical application of Power Query for cleaning and shaping real-world data.
+  •	Mastered the use of DAX to create dynamic measures and calculations that drive insight.
+  •	Gained experience in designing dashboards with user-friendly interfaces, enabling decision-makers to interact with data intuitively.
+  •	Developed the ability to extract business insights from raw data and communicate them visually.
+##### Overall, this project improved my data storytelling, visualization, and end-to-end BI development skills—preparing me to contribute meaningfully to real-world data-driven decision environments.
 
 
